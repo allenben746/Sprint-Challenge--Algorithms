@@ -4,7 +4,7 @@
 
 a) O(n^2) - the function only runs as many times as 'n', the 'n*n*n' and 'n*n' cancel eahother out and leave it as 'n'
 
-b) O(n^2) - the function loops through 'n', nothing special 
+b) O(n^2) - the function loops through 'n', nothing special  
 
 c) O(log n) - the function operates over bunnyEars 'n' + 1 times
 
